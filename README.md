@@ -1,7 +1,5 @@
 #  🌦️ Weather-Forcasting-Dashboard
 
-# 🌦️ Weather Forecasting Dashboard
-
 An interactive **Weather Forecasting Dashboard** built using **Power BI**, designed to provide clear and insightful weather information through dynamic visualizations.
 
 The dashboard fetches **real-time and forecast weather data through a Weather Forecasting API**, processes the data, and presents it in an easy-to-understand visual format.
